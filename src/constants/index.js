@@ -4,19 +4,18 @@ import {
   ux,
   prototyping,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
-  redux,
+  python,
+  django,
+  laravel,
   tailwind,
   nodejs,
   git,
   figma,
   docker,
   postgresql,
-  rubyrails,
-  graphql,
   komikult,
   leaderboard,
   math,
@@ -69,24 +68,28 @@ const technologies = [
     icon: html,
   },
   {
+    name: 'Django',
+    icon: django,
+  },
+  {
+    name: 'Laravel',
+    icon: laravel,
+  },
+  {
     name: 'CSS 3',
     icon: css,
+  },
+  {
+    name: 'Python',
+    icon: python,
   },
   {
     name: 'JavaScript',
     icon: javascript,
   },
   {
-    name: 'TypeScript',
-    icon: typescript,
-  },
-  {
     name: 'React JS',
     icon: reactjs,
-  },
-  {
-    name: 'Redux Toolkit',
-    icon: redux,
   },
   {
     name: 'Tailwind CSS',
@@ -95,14 +98,6 @@ const technologies = [
   {
     name: 'Node JS',
     icon: nodejs,
-  },
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
   },
   {
     name: 'postgresql',
