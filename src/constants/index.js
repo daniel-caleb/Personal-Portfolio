@@ -151,8 +151,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Adventure Website',
-    description: 'This is project of a website that offers users the opportunity to discover and plan on adventure activities and experiences.',
+    name: 'Mtaa Explorer',
+    description: 'This project is of an adventure website that offers users the opportunity to discover and plan on adventure activities and experiences.',
     tags: [
       {
         name: 'react',
