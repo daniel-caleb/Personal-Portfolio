@@ -218,8 +218,9 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Fleet Manager',
-    description: ``,
+    name: 'Personal Trust Funds',
+    description: `
+    The Personal Trust Funds is a monthly gathering of 12 individuals pooling funds, fostering financial growth, community support, and shared celebrations of achievements.`,
     tags: [
       {
         name: 'nextjs',
@@ -236,7 +237,7 @@ const projects = [
     ],
     image: movie,
     repo: '',
-    demo: '',
+    demo: 'https://personaltrustfunds.netlify.app/',
   },
   {
     id: 'project-5',
