@@ -53,11 +53,11 @@ const services = [
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Cybersecurity👨🏾‍💻',
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Software Developer',
     icon: prototyping,
   },
 ];
@@ -168,8 +168,8 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/daniel-caleb/Formula_1.git',
-    demo: '',
+    repo: 'https://github.com/daniel-caleb/-adventurewebsite.git',
+    demo: 'https://mtaaexplorer.netlify.app/',
   },
   {
     id: 'project-2',
@@ -191,7 +191,7 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/daniel-caleb/-adventurewebsite.git',
+    repo: 'https://github.com/daniel-caleb/Formula_1.git',
     demo: '',
   },
   {
@@ -258,8 +258,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: '',
-    demo: '',
+    repo: 'https://github.com/daniel-caleb',
+    demo: 'https://github.com/daniel-caleb',
   },
 ];
 
