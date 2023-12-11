@@ -126,7 +126,7 @@ const experiences = [
     date: 'Aug 2022 - Dec 2023',
   },
   {
-    title: 'Python Developer',
+    title: 'Frontend Developer',
     company_name: 'Simulink Agencies - Nairobi Kenya',
     icon: microverse,
     iconBg: '#333333',
@@ -139,13 +139,6 @@ const experiences = [
     iconBg: '#333333',
     date: 'Sept 2022 - Oct 2023',
   },
-  // {
-  //   title: 'Full Stack Developer',
-  //   company_name: 'Diversity Cyber Council',
-  //   icon: dcc,
-  //   iconBg: '#333333',
-  //   date: 'Sep 2022 - Present',
-  // },
 ];
 
 const projects = [
